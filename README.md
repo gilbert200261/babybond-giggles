@@ -37,6 +37,6 @@ This app gives general baby playtime ideas only. It is not medical advice. Babie
 
 I built an app that helps parents find baby playtime and bonding ideas based on their baby's age, mood, available time, and activity type. The hardest part was understanding how the Generate button worked and why nothing happened at first when I clicked it. It surprised me that one small part of the code, like state or the submit handler, controls what the user sees on the screen. Through building this I learned how React state works — the app saves the selected activity in state, and React automatically updates the screen to show the activity card. I also learned that showing a clear validation message is better than disabling a button, because it tells the user exactly what they need to fix.
 
-🔗 **Live site:** http://localhost:5174/
+🔗 **Live site:** https://babybond-giggles.pages.dev/
 🎥 **PRD video:** [your-prd-video-link]
 🎥 **Demo video:** [your-demo-video-link]
